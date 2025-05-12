@@ -1,30 +1,23 @@
-# COVID-19-Global-Data-Tracker-Project
-  Description
-Congratulations on completing the COVID-19 Global Data Tracker project! As part of your final submission for the Python Development Module, please follow the instructions below to submit your work:
+# COVID-19 Global Data Tracker
 
-✅ 1. Upload your project to GitHub
+## 📌 Project Description
+A Python-based data analysis project that tracks and visualizes the global spread and impact of COVID-19 using publicly available datasets. The goal is to provide interactive and insightful visualizations for better understanding pandemic trends.
 
-Create a new public repository on GitHub
+## 🎯 Objectives
+- Collect real-time or historical COVID-19 data.
+- Clean and preprocess the dataset.
+- Analyze trends by country, date, and case type.
+- Visualize cases, deaths, recoveries using plots and maps.
+- Generate insights and patterns based on the data.
 
-✅ 2. Add a README.md file to your repository
-Your README.md should include:
+## 🛠️ Tools & Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn / Plotly
+- Jupyter Notebook
+- [Optional: Dash or Streamlit for web apps]
+- [Data source: Johns Hopkins, WHO, or Our World in Data]
 
-Project title and short description
-
-Objectives of the project
-
-List of tools and libraries used
-
-How to run/view the project
-
-Any insights or reflections
-
-
-
-✅ 3. Check that your notebook runs from start to finish
-Please ensure that your notebook runs without errors and displays all outputs.
-
-
-
-✅ 4. Share your GitHub repository link
-Once uploaded, submit your GitHub repository link via the class submission form (or send it to me directly if instructed).
+## ▶️ How to Run/View the Project
+1. Clone the repo:
